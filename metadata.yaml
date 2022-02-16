@@ -1,11 +1,16 @@
 _repo: The-Sixth-Marine-Division_67293
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67293-h/images/cover.jpg
 creator:
   author:
     agent_name: Stockman, James R.
     gutenberg_agent_id: '54199'
     url: http://www.gutenberg.org/2009/agents/54199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67293#The-Sixth-Marine-Division
 gutenberg_issued: '2022-02-01'
 identifiers:
   gutenberg: '67293'
